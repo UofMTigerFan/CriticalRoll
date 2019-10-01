@@ -3,4 +3,25 @@
     <string name="nat_1">Critical Miss!</string>
     <string name="nat_20">Critical Hit!</string>
     <string name="normal"></string>
+    <string name="saved_dice_roll_1">1roll</string>
+    <string name="saved_dice_roll_2">2roll</string>
+    <string name="saved_dice_roll_3">3roll</string>
+    <string name="saved_dice_roll_4">4roll</string>
+    <string name="saved_dice_roll_5">5roll</string>
+    <string name="saved_dice_roll_6">6roll</string>
+    <string name="saved_dice_roll_7">7roll</string>
+    <string name="saved_dice_roll_8">8roll</string>
+    <string name="saved_dice_roll_9">9roll</string>
+    <string name="saved_dice_roll_10">10roll</string>
+    <string name="saved_dice_roll_11">11roll</string>
+    <string name="saved_dice_roll_12">12roll</string>
+    <string name="saved_dice_roll_13">13roll</string>
+    <string name="saved_dice_roll_14">14roll</string>
+    <string name="saved_dice_roll_15">15roll</string>
+    <string name="saved_dice_roll_16">16roll</string>
+    <string name="saved_dice_roll_17">17roll</string>
+    <string name="saved_dice_roll_18">18roll</string>
+    <string name="saved_dice_roll_19">19roll</string>
+    <string name="saved_dice_roll_20">20roll</string>
+    <string name="shared_prefs_key">share</string>
 </resources>
